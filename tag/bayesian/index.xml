@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bayesian | Feng, Jianshe</title>
+    <link>/tag/bayesian/</link>
+      <atom:link href="/tag/bayesian/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bayesian</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu2da6660f49e0ed3d134821ae9bbede5e_267278_512x512_fill_lanczos_center_2.png</url>
+      <title>Bayesian</title>
+      <link>/tag/bayesian/</link>
+    </image>
+    
+    <item>
+      <title>Online Virtual Metrology of Semiconductor Manufacturing Processes</title>
+      <link>/project/1-online-virtual-metrology-of-semiconductor-manufacturing-processes/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/1-online-virtual-metrology-of-semiconductor-manufacturing-processes/</guid>
+      <description>&lt;p&gt;Virtual Metrology (VM) is an essential research for manufacturing processes, which aims to estimate the difficult-to-measure parameters of products or processes by computer programs. Modeling of dynamic manufacturing processes with slow drift using data-driven approaches is challenging because most data-driven models are trained by off-line data. In this paper, we propose to track slow drift of manufacturing process using an online Bayesian Auto-Regression eXogenous (ARX) model with time-variant parameters. The model parameters are trained off-line and are updated online using Bayes’ rule. To avoid frequent online model update, a Sample Importance test is proposed to screen online samples and only the sample that passes SI test is incremented to the VM model. The SI test decides the importance of the sample by collectively considering sample freshness, model prediction error and prediction uncertainty. The off-line sample selection algorithm can effectively reduce the sample redundancy in off-line DB while maintaining the model performance. To validate the effectiveness of the proposed method, Prognostics and Health Management (PHM) data challenge 2016 dataset is employed to predict material removal rate of chemical-mechanical planarization process. The validation results indicate that the proposed method outperforms existing state-of-art approaches in literature such as Just-in-Time (JIT) and deep learning models.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

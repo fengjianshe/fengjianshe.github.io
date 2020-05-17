@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Predictive Maintenance | Feng, Jianshe</title>
+    <link>/tag/predictive-maintenance/</link>
+      <atom:link href="/tag/predictive-maintenance/index.xml" rel="self" type="application/rss+xml" />
+    <description>Predictive Maintenance</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 17 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu2da6660f49e0ed3d134821ae9bbede5e_267278_512x512_fill_lanczos_center_2.png</url>
+      <title>Predictive Maintenance</title>
+      <link>/tag/predictive-maintenance/</link>
+    </image>
+    
+    <item>
+      <title>PHM-enabled Maintenance Scheduling Optimization</title>
+      <link>/project/3-phm-enabled-maintenance-scheduling-optimization/</link>
+      <pubDate>Sun, 17 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>/project/3-phm-enabled-maintenance-scheduling-optimization/</guid>
+      <description>&lt;p&gt;Maintenance Scheduling and Routing (MS&amp;amp;R) is critical for the offshore wind farm to reduce maintenance cost. Although different models are proposed, the turbine operating conditions and the forecasted wind resources in the maintenance horizon are still less accounted in these current models. To address this issue, this research proposes a novel mathematical model to optimize the MS&amp;amp;R problem by highlighting the significance of turbine production loss (PL) before and during maintenance activities. In the proposed methodology, the PL term takes the most up-to-date wind turbine power curve and the forecasted wind resources as model inputs. Subsequently, a novel Genetic Algorithm (GA) solver is designed to minimize the PL of wind turbines together with the technician salaries and the transportation costs. The outcome of the proposed model gives a detailed maintenance plan with maintenance schedules, vessel routes, technician assignments, and cost breakdowns. Validation of the proposed model is implemented on real-world data collected from an offshore wind farm with several 4 MW wind turbines. The result demonstrates the effectiveness and superiority of the proposed method, and some practical findings are also summarized in the conclusions.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

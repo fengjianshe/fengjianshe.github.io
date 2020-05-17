@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PHM, Adaptive Model | Feng, Jianshe</title>
+    <link>/tag/phm-adaptive-model/</link>
+      <atom:link href="/tag/phm-adaptive-model/index.xml" rel="self" type="application/rss+xml" />
+    <description>PHM, Adaptive Model</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 08 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu2da6660f49e0ed3d134821ae9bbede5e_267278_512x512_fill_lanczos_center_2.png</url>
+      <title>PHM, Adaptive Model</title>
+      <link>/tag/phm-adaptive-model/</link>
+    </image>
+    
+    <item>
+      <title>Adaptive PHM Framework</title>
+      <link>/project/6-adaptive-phm/</link>
+      <pubDate>Fri, 08 May 2020 00:00:00 +0000</pubDate>
+      <guid>/project/6-adaptive-phm/</guid>
+      <description>&lt;p&gt;Prognostics and health management (PHM) has gradually become an essential technique to improve the availability and efficiency of industrial systems. With the rapid advancement
+of sensor technology and communication technology, a huge amount of real-time data is generated from various applications industry, which brings new challenges to PHM in the context of big data streams. On one hand, high-volume stream data places a heavy demand on data storage, communication, and PHM modeling. On the other hand, continuous fluctuation and drift are essential properties of stream data in an online environment, which requires the PHM model to be capable to capture the new formation in stream data adaptively and continuously. This research proposes a systematic methodology to develop an effective online evolving PHM method with adaptive sampling mechanism against continuous stream data and in-process changes.&lt;/p&gt;
+&lt;p&gt;An adaptive sample selection strategy named Sample Importance (SI) Test is developed to effectively select the representative samples in both off-line and online environment. The SI test proposed here is composed of two tests: Data-based importance test and Model-based importance test.
+DBI test considers determining the informativeness of the new sample based on the characteristics of the data. In other words, to make it general, we define the DBI test as freshness test, as it evaluate the importance regarding informativeness just as it is &amp;ldquo;fresh&amp;rdquo; or not compared with previously shown samples. MBI test considers determining the informativeness of the new sample based on the performance of the model’s prediction on this sample. The prediction performance here has two meanings: (1) whether the prediction has a good prediction accuracy; and (2) whether the prediction has a low uncertainty. In other words, to make it general, we define the MBI test as error test, which identified whether the sample has a large prediction error, or has a high prediction uncertainty.&lt;/p&gt;
+&lt;p&gt;Meanwhile, a probabilistic theory-based modeling approach is developed to update the model with newly selected samples. Finally, the whole methodology is validated with real-world industrial cases. The result comparison between the proposed methodology and state-ofart methods verifies the superiority of the proposed method.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
